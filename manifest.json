@@ -1,0 +1,19 @@
+{
+  "name": "Monday Notification Remover",
+  "version": "1.0",
+  "manifest_version": 3,
+  "description": "Remove the notifications from Monday",
+  "permissions": [
+    "scripting",
+    "activeTab"
+  ],
+  "icons": {
+    "16": "assets/icon16.png",
+    "48": "assets/icon48.png",
+    "128": "assets/icon128.png"
+  },
+  "action": {
+    "default_icon": "assets/icon.png",
+	"default_popup": "index.html"
+  }
+}
