@@ -1,4 +1,4 @@
-#Update
+# Update
 Stopped supporting this addon as Monday already added the option to remove all in once.
 
 # Monday Notification Remover
